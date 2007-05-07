@@ -5,8 +5,8 @@
 
 Summary:	%{_pearname} - querying finger servers
 Name:		php-pear-%{_pearname}
-Version:	1.0.0
-Release:	%mkrel 7
+Version:	1.0.1
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
