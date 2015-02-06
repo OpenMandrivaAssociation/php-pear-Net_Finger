@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	9
+Release:	10
 Summary:	Querying finger servers
 License:	PHP License
 Group:		Development/PHP
